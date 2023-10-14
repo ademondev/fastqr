@@ -10,3 +10,4 @@ I didn't find any good way to make and save QRS quickly, so I got fed up and mad
 
 - Immediate QRs in a simple UI
 - Save your QRS for later use
+- Install it on your phone directly from the webpage (PWA)
