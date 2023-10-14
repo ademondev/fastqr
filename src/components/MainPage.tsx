@@ -56,6 +56,7 @@ export const MainPage: FC<MainPageProps> = () => {
                 clicked ? "bg-green-400" : ""
               } transition-colors duration-200 ease-in-out `}
               onClick={() => {
+                if (clicked) return;
                 addQR(text);
                 setClicked(true);
               }}
